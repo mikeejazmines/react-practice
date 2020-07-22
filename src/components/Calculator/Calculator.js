@@ -62,7 +62,7 @@ class App extends Component {
         return (
             <div>
                 <div className="calculator-body">
-                    <h1>Simple Calculator</h1>
+                    <h2>Simple Calculator</h2>
                     <p>This code was taken from <a href="https://medium.com/@nitinpatel_20236/how-to-build-a-simple-calculator-application-with-react-js-bc10a4568bbd">an article on medium</a>. 
                     No code was altered and the example was used for me to familiarize myself with react components and set up routing.</p>
                     <p>A future goal would be to be able to create applications without copying straight off a tutorial</p>

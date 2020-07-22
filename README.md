@@ -11,6 +11,7 @@ The goal is to be able to practice React through creating applications from scra
 | Name | Date | Description |
 | ---- | ---- | ----------- |
 | Calculator App | July 21, 2020 | Followed a calculator tutorial to create a simple calculator |
+| To Do List App | July 22, 2020 | Followed a Youtube tutorial on how to create a to do list |
 
 ### Deployment
 
