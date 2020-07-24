@@ -13,6 +13,7 @@ class Home extends Component {
 	          <ul className="navbar-nav mr-auto">
 	            <li><Link to={'/calculator'} className="nav-link">Calculator - July 21, 2020</Link></li>
 	            <li><Link to={'/todo'} className="nav-link">To Do List - July 22, 2020</Link></li>
+	            <li><Link to={'/buttonclick'} className="nav-link">Button Click - July 24, 2020</Link></li>
 	          </ul>
 	        </div>
         );
